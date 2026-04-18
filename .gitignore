@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Machine Learning Models
+models/*.keras
+*.h5
+
+# Data (Optional: ignore if files are very large)
+# data/
+
+# IDE settings
+.vscode/
